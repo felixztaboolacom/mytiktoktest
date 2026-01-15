@@ -1,9 +1,9 @@
 [
   {
     "id": "doodle-drop",
-    "branding": "Share test page",
-    "title": "Click here to launch the Share test page",
-    "image_url": "https://images-dl.taboola.com/ko/motorola-lockscreenodm/taboola/image/fetch/f_webp,q_auto,h_2400,w_1080,c_fill/https%3A%2F%2Fcdn.taboola.com%2Fstatic%2Fwallpaper%2F-8393166231876504609_GETTY_679705246.jpg",
+    "branding": "Tiktok Test",
+    "title": "Click here to launch Tiktok",
+    "image_url": "https://raw.githubusercontent.com/felixztaboolacom/mytiktoktest/refs/heads/main/tiktok.jpeg",
     "action": "https://app.appsflyer.com/com.zhiliaoapp.musically?af_xp=custom&pid=taboola_lockscreen&c=test&af_c_id=test&is_retargeting=true&af_click_lookback=1d&af_dp=snssdk1180%3A%2F%2Faweme%2Fdetail%2F7556719465723890966%3Finsert_feed%3D1%26gd_label%3Dug_oem_eco_taboola_lockscreen%26ug_launch_category%3Doem_store_paid&advertising_id={gaid}&af_siteid=brand",
     "cta_text": "Tiktok"
   }
