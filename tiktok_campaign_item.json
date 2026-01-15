@@ -1,0 +1,10 @@
+[
+  {
+    "id": "doodle-drop",
+    "branding": "Share test page",
+    "title": "Click here to launch the Share test page",
+    "image_url": "https://images-dl.taboola.com/ko/realme-lockscreen/taboola/image/fetch/f_webp,q_auto,c_fill/https%3A%2F%2Fcdn.taboolanews.com%2Fmagazine%2Fgames%2Fgame-covers%2Fdoodle-drop.jpg",
+    "action": "https://scoop-staging-taboola.web.app/web_share/index.html",
+    "cta_text": "Tiktok"
+  }
+]
